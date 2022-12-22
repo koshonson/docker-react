@@ -6,14 +6,14 @@ function App() {
     <div className='App'>
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
-        <p>Change, there.</p>
+        <p>New feature here</p>
         <a
           className='App-link'
           href='https://reactjs.org'
           target='_blank'
           rel='noopener noreferrer'
         >
-          Deploying new version
+          Learn React
         </a>
       </header>
     </div>
